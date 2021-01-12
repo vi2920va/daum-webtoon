@@ -1,0 +1,64 @@
+html,
+body,
+div,
+span,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+strong,
+em,
+b,
+i,
+a,
+p,
+header,
+article,
+section,
+nav,
+aside,
+footer,
+ul,
+li,
+figure,
+figcaption,
+img form,
+label,
+input,
+button {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: black
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: 100%;
+  font-weight: normal;
+}
+
+em,
+strong,
+b {
+  font-style: normal;
+  font-weight: normal;
+}
+
+button {
+  background: transparent;
+  border: 0;
+}
